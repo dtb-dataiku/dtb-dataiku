@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dtb-dataiku
+- 👋 Hi, I’m Darin
 - 👀 I’m interested in data science and machine learning
 <!---
 - 🌱 I’m currently learning ...
